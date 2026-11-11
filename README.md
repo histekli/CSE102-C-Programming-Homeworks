@@ -68,6 +68,25 @@ Simulates digital circuits composed of logic gates.
   - Circuit file and input file processing
 - **Concepts Used**: Struct, pointer, malloc/free, recursive evaluation, switch-case
 
+## Setup
+
+A C compiler (GCC) is required to build the assignments.
+
+- **Linux (Debian/Ubuntu)**: `sudo apt install gcc`
+- **macOS**: `xcode-select --install` (or `brew install gcc`)
+
+Example compile command:
+
+```bash
+gcc -o PA1 hasan_can_istekli_PA1.c -lm
+```
+
+Example run:
+
+```bash
+./PA1
+```
+
 ## Compilation
 
 To compile each C file:
